@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Divyam Hospital Attendance",
+  "description": "A comprehensive hospital attendance and employee management mobile application featuring biometric face recognition, work schedule tracking, and leave management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
